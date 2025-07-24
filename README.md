@@ -25,7 +25,7 @@ A fun and interactive Rock Paper Scissors game built using HTML, CSS, and JavaSc
 ![Rock Paper Scissors Game](Screenshot.png)
 
 
-[GitHub Repo](https://github.com/sahanahc123/TicTacToe-Project)
+[GitHub Repo] (https://github.com/sahanahc123/TicTacToe-Project)
 Made with ❤️ by Sahana HC
 
 
